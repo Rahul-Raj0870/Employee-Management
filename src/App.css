@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    
+  }
+  .bgImage{
+    position: absolute;
+    z-index: -1;
+   
+
+  }
+  .bgImage>img{
+    width: 100vw;
+    height: 90vh;
+    object-fit: cover;
+    
+  }
+  
